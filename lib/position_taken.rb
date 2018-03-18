@@ -1,9 +1,3 @@
-def position_taken?(array, index)
-if
-  array[index]== "" || array[index]== " " || array[index] == nil
-  return false
-else
-  true
-end
-
+def position_taken
+input = input.to_i - 1
 end
